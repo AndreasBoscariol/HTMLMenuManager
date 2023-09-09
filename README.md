@@ -3,7 +3,7 @@
 
 This program allows restaurants and cafes to easily create and manage an online menu that is displayed on a website.
 
-##Demo
+## Demo
 Watch the video demonstration of the project [here](https://youtu.be/jv3OlhHn9G4).
 
 ## Features
